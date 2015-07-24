@@ -1,0 +1,27 @@
+{
+  "name": "jsonformat",
+  "version": "0.1.0",
+  "description": "format a json file",
+  "author": {
+    "name": "xcq",
+    "email": "xcq372640491@126.com",
+    "url": "xuchuanqi.cn"
+  },
+  "bin": {
+    "resttest": "./bin/jsonformat"
+  },
+  "main": "indes.js",
+  "dependencies": {
+    "commander": ">=2.8.1"
+  },
+  "keywords": [
+    "json",
+    "format"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcq-legend/jsonformat.git"
+  },
+  "license": "MIT"
+
+}
