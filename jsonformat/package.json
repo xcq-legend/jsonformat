@@ -8,7 +8,7 @@
     "url": "xuchuanqi.cn"
   },
   "bin": {
-    "resttest": "./bin/jsonformat"
+    "jsonformat": "./bin/jsonformat"
   },
   "main": "indes.js",
   "dependencies": {
