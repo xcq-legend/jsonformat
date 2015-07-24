@@ -1,11 +1,14 @@
 
 
 # jsonformat
-
+# install
+npm install jsonformat -g
+# uninstall 
+npm remove jsonformat -g
 
 
 ## Usage
-
+jsonformat file
 
 
 ## Developing
